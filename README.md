@@ -20,7 +20,7 @@ SO THAT my company can compete with other e-commerce companies
   5. [License](#license)
 
 
-  ## Installation:
+## Installation:
   ```
   1- clone the git repo  
   2- Install node.js
@@ -34,8 +34,8 @@ SO THAT my company can compete with other e-commerce companies
   ``` 
 
 
-  ## Usage
-  To perform CRUD operations using api routes on database.
+## Usage
+To perform CRUD operations using api routes on database.
   
 
 - [WalkThrough Vedio](https://drive.google.com/file/d/1P81h1FDK4WfH0zpfxAaer64FEs_dQs0c/view?usp=sharing)
@@ -43,15 +43,15 @@ SO THAT my company can compete with other e-commerce companies
 - [The URL of the GitHub repository.](https://github.com/noori36/ORM-Ecommerce-Backend)
  
 
-  ## Contributing:
-  No contribution required on this project.
+## Contributing:
+No contribution required on this project.
   
-  ## Testing
-    No test available.
+## Testing
+No test available.
   
-  ## Authors
+## Authors
 
-  Noreen A
+Noreen A
   
 
 ## License
