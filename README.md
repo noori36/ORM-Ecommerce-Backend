@@ -40,8 +40,6 @@ SO THAT my company can compete with other e-commerce companies
 
 - [WalkThrough Vedio](https://drive.google.com/file/d/1P81h1FDK4WfH0zpfxAaer64FEs_dQs0c/view?usp=sharing)
 
-- <a href="Video URL"> Walkthrough Video of Ecommerce-Backend</a>
-
 - [The URL of the GitHub repository.](https://github.com/noori36/ORM-Ecommerce-Backend)
  
 
