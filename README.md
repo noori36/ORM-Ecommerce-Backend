@@ -38,10 +38,11 @@ SO THAT my company can compete with other e-commerce companies
   To perform CRUD operations using api routes on database.
   
 
-    - [Walk Through Vedio](URL)
-    - <a href="Video URL"> Walkthrough Video of Ecommerce-Backend</a>
+- [Walk Through Vedio](URL)
 
-    - [The URL of the GitHub repository.](https://github.com/noori36/ORM-Ecommerce-Backend)
+- <a href="Video URL"> Walkthrough Video of Ecommerce-Backend</a>
+
+- [The URL of the GitHub repository.](https://github.com/noori36/ORM-Ecommerce-Backend)
  
 
   ## Contributing:
